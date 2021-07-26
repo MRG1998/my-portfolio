@@ -1,0 +1,27 @@
+.btn-gold{
+    background: goldenrod;
+    color: #fff;
+}
+.home{
+    padding-top: 100px;
+}
+p{
+    color: #808080;
+}
+img{
+    margin-top: -30px;
+}
+svg{
+    color: #808080;
+}
+svg:hover{
+    color: goldenrod;
+}
+@media (max-width:600px){
+    img{
+        margin-top: 0px;
+    } 
+    .home{
+        padding-top: 0px;
+    }
+}

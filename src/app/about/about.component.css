@@ -1,0 +1,12 @@
+.about{
+    padding-top: 70px;
+}
+p{
+    color: #808080;
+    text-transform: capitalize;
+}
+.btn-gold{
+    background: goldenrod;
+    color: #fff;
+}
+
